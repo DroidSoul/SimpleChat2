@@ -24,7 +24,7 @@ import com.parse.SubscriptionHandling;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// here is another copy
 public class ChatActivity extends AppCompatActivity {
 
     static final String TAG = ChatActivity.class.getSimpleName();
